@@ -1,1 +1,1 @@
-### In this repository was where I put my execution of the exercises of the [Python course of the Curso em Vídeo](https://www.youtube.com/watch?v=U_A2kwUfmlw&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=1)
+### In this repository was where I put my execution of the exercises of the [Python course of the Curso em Vídeo](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm&index=1)
